@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flumius
-- 👀 I’m interested in web scraping
-- 🌱 I’m currently learning VS code
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me through messages I guess
 
